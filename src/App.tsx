@@ -307,7 +307,7 @@ const Navbar = ({ currentPage, setCurrentPage, language, setLanguage, topOffset 
             >
               <div className="w-10 h-10 bg-white rounded-2xl flex items-center justify-center shadow-lg group-hover:scale-110 transition-transform duration-500 overflow-hidden border border-slate-100">
                 <img 
-                  src="https://lh3.googleusercontent.com/sitesv/APaQ0SQbFChhEeb4_Jn5n6zSFB0De_d3D27Y9UH9BLjcOlZ3boDIcrheRJAnLC7MjkBPWtXDK_LjtJ3uCNov1c0a_sEmf-xs3BfcN0o1w4pmzyu9JlY4Ubv7QTZNh85MquUJI8GK3gUtdDjc9f3XwlRd-9uy_RnGmojVNw2KqpHPGXoEQv5fFQV8DI5POvQ=w16383" 
+                  src="https://memoirme.app/icon.png" 
                   alt="MemoirME Logo" 
                   className="w-full h-full object-cover"
                   referrerPolicy="no-referrer"
